@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f393a4af-abd5-4dfb-a10c-ddd4a82b8481" name="Changes" comment="Bootstrap Project">
-      <change afterPath="$PROJECT_DIR$/Carousel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carousel.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
       <updated>1637324873074</updated>
       <workItem from="1637324874344" duration="1801000" />
       <workItem from="1637591149241" duration="2532000" />
-      <workItem from="1637674961338" duration="1107000" />
+      <workItem from="1637674961338" duration="1570000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap Project">
       <created>1637591600558</created>
@@ -67,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637593685223</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Bootstrap Project">
+      <created>1637676196879</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637676196879</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
