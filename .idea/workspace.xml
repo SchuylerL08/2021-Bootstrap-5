@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f393a4af-abd5-4dfb-a10c-ddd4a82b8481" name="Changes" comment="Bootstrap Project" />
+    <list default="true" id="f393a4af-abd5-4dfb-a10c-ddd4a82b8481" name="Changes" comment="Bootstrap Project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redesign/metal_detecting.html" beforeDir="false" afterPath="$PROJECT_DIR$/Redesign/metal_detecting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redesign/project_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Redesign/project_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redesign/spade.html" beforeDir="false" afterPath="$PROJECT_DIR$/Redesign/spade.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redesign/sparkless_shovel.html" beforeDir="false" afterPath="$PROJECT_DIR$/Redesign/sparkless_shovel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redesign/treetrench.html" beforeDir="false" afterPath="$PROJECT_DIR$/Redesign/treetrench.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +62,7 @@
       <workItem from="1638198517655" duration="1579000" />
       <workItem from="1638282385334" duration="4149000" />
       <workItem from="1638366229220" duration="5019000" />
+      <workItem from="1638449980294" duration="2350000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap Project">
       <created>1637591600558</created>
@@ -174,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638371257878</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Bootstrap Project">
+      <created>1638450004296</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1638450004296</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
