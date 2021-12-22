@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f393a4af-abd5-4dfb-a10c-ddd4a82b8481" name="Changes" comment="GitHub Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redesign/treetrench.html" beforeDir="false" afterPath="$PROJECT_DIR$/Redesign/treetrench.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <workItem from="1640005168182" duration="2554000" />
       <workItem from="1640089046672" duration="2314000" />
       <workItem from="1640099260473" duration="1664000" />
-      <workItem from="1640183117741" duration="95000" />
+      <workItem from="1640183117741" duration="2066000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap Project">
       <created>1637591600558</created>
@@ -344,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640099856783</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="GitHub Commit">
+      <created>1640183220872</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1640183220872</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
